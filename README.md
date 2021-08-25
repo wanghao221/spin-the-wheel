@@ -4,7 +4,7 @@
 
 # 基于HTML的旋转转盘—小于30kb的可定制轮盘🎡
 
-演示链接：[http://haiyongcsdn.gitee.io/spin-the-wheel/](http://haiyongcsdn.gitee.io/spin-the-wheel/)
+演示链接：[https://haiyong.site/spin-the-wheel](https://haiyong.site/spin-the-wheel)
 
 我非常感谢您对改进它的任何反馈，我已经盯着它看了一个星期👀
 
